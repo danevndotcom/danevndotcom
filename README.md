@@ -8,19 +8,6 @@ I combine commercial growth strategy with hands-on technical execution across AI
 - Founder of [Argentum](https://github.com/danevndotcom/argentum), an agentic-first language model research project
 - 15+ years across B2B growth, demand generation, marketing automation, and outbound acquisition
 - Based between **Bali and Yerevan**
-- Open to relocation
-
-## Selected Impact
-
-| Area | Result |
-|---|---:|
-| Qualified sales opportunities generated | **5,000 SQLs/month** |
-| Outreach open rates | **60–70%** |
-| Outreach reply rates | **6–12%** |
-| Integrated marketing budgets managed | **$10M+** |
-| Marketing and growth tools operated | **40+** |
-| Distributed team leadership | **15 people** |
-| Sales growth achieved | **300%** |
 
 ## Current Projects
 
